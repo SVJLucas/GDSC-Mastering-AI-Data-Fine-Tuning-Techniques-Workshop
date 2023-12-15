@@ -9,3 +9,8 @@
 For more information and to register, visit the official event page: 
 [Google Developer Student Clubs CentraleSupélec - Mastering AI & Data Fine-Tuning Techniques Workshop](https://gdsc.community.dev/events/details/developer-student-clubs-centralesupelec-presents-mastering-ai-data-fine-tuning-techniques-workshop/)
 
+# Workshop
+
+<p align="center">
+  <img width="300" alt="logo_dark_stacked_KzUurne (1)" src="https://github.com/SVJLucas/GDSC-Mastering-AI-Data-Fine-Tuning-Techniques-Workshop/assets/60625769/519ffc94-2e2f-4b7b-a548-e7fb54561c2e">
+</p>
