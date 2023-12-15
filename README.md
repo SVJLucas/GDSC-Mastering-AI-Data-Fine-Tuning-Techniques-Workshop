@@ -1,4 +1,4 @@
-# Google Developers Students Club: Mastering AI - Data Fine Tuning Techniques Workshop
+# Google Developer Student Club: Mastering AI - Data Fine Tuning Techniques Workshop
 
 <p align="center">
   <img width="500" alt="logo_dark_stacked_KzUurne (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/1501cb07-3add-4907-9778-10b90c223e69">
